@@ -229,11 +229,11 @@ ctfhub 技能树( https://www.ctfhub.com/#/skilltree ) web 分枝下信息泄露
 
 ### 密码学 (Crypto)
 
-Hackergame 密码学题目（具体列表比赛开始后公布）任意两题
-
-或 https://crypto.sqrt-1.me/ 任意 10 题
-
-或 https://cryptohack.org/ 任意 10 题（前两个分类和问答题除外）
+以下三项任一：
+- Hackergame 密码学题目（具体列表比赛开始后公布）任意两题
+- https://crypto.sqrt-1.me/ 任意 18 题
+  - 题数是原则性要求，根据题的难度可以酌情调整，**18** 指代最简单的 18 题
+- https://cryptohack.org/ 任意 10 题（前两个分类和问答题除外）
 
 或找 mentor 根据自身基础和兴趣个性化定制任务
 
